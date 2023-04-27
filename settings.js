@@ -18,27 +18,27 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.alivemsg = '𝙰𝙳𝚁𝙴𝙽𝙾'
+global.alivepic = 'https://pin.it/1YulKpI'
+global.owner = ['+917560846016'] //ur owner number
+global.ownername = "adreno_v12_bot" //ur owner name
+global.ytname = "YT: HARRIER" //ur yt chanel name
+global.socialm = "Instagram: sr_ee_hx_ri" //ur github or insta name
+global.location = "India, Kerala, Trivadrum" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
+global.ownernomer = "+917560846016" //ur number
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botname = '𝙰𝙳𝚁𝙴𝙽𝙾' //ur bot name
+global.linkz = "https://instagram.com/sr_ee_hx_ri" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/harrier.fx" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.themeemoji = "🦋" //ur theme emoji
+global.packname = "ADRENO V12 BY HARRIER" //ur sticker watermark packname
+global.author = "HARRIER SEE" //ur sticker watermark author
+global.wm = "ADRENO V12 BOT" //ur watermark
 
 // Other
 global.sessionName = 'session'
